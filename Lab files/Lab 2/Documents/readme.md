@@ -1,5 +1,5 @@
 # The contents of the replication documentation
-The parent folder of Lab 2 contains:
+The parent folder Lab 2 contains:
 - AnalysisData - folder contain copy of importable data file (weather_importable.xlsx) and the fully cleaned and processed data files (prcp_data.xlsx and temp_data.xlsx).
 - CommandFiles - the folder contains a script that performs a series of operations to clean and process data (Lab 2.ipynb)
 - Documents - the folder contains document that serves as a codebook for the analysis data files (Data Appendix.txt), a document that describes the files included in the replication documentation, and explains how they can be used to replicate the study and reproduce the results (readme.txt) and copy of the final report on the project (Final Paper.pdf)
