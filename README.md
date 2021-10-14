@@ -1,2 +1,0 @@
-# analizaibazydanych
-Repozytorium
