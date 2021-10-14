@@ -1,3 +1,4 @@
+# Metadata Guide
 The original data file is the weather.txt file in the OriginalData folder.
 It contains daily weather data from the Global Historical Climatology Network for one weather station (MX17004) in Mexico. 
 The first column contains data (id, year, month, variable name), the remaining columns contain the values of the variables for the given day of the month (day, d1 - d31). 
