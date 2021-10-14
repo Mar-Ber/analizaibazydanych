@@ -4,7 +4,6 @@ The first column contains data (id, year, month, variable name), the remaining c
 Months with less than 31 days have structural missing values for the last day (days) of the month. Values are expressed with one decimal place.
 The data was taken from the following page:
 https://github.com/KAIR-ISZ/public_lectures/blob/master/Analiza%20i%20Bazy%20Danych%202021/Lab%202/Datasets/weather.txt
-
 To get a copy of the original data file, copy the data from the above page to a clean file with the .txt extension.
 
 
